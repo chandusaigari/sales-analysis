@@ -1,4 +1,4 @@
-# 🧥 Men's Clothing Sales Analysis
+# 🧥 Men's Clothing Sales Analysis - [dowload](https://github.com/chandusaigari/sales-analysis/blob/main/Insights.docx)
 
 ## 📌 Overview
 Analyzed 6,000 records from January to March to generate insights on sales performance, customer satisfaction, and operations.
